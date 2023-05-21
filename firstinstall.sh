@@ -1,4 +1,5 @@
 #!/bin/bash
+echo"installing apps bk"
 echo "install alacritty" 
 sudo pacman -S alacritty
 echo "installing chromium" 
