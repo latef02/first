@@ -62,4 +62,13 @@ echo "installing joypixel ttf "
 sudo pacman -S  ttf-joypixels
 echo "installing dusnt for notification"
 sudo pacman -S dunst
-
+echo "installing tldr for see usable tools"
+sudo pacman -S tldr
+echo "installing fzf for search in files"
+sudo pacman -S fzf
+echo "installing doas but make config in /etc/doas.conf==>permit nopass latef as root"
+sudo pacman -S doas
+echo "install vi"
+sudo pacman -S vi
+echo "installing songrec"
+sudo pacman -S songrec
