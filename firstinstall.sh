@@ -72,3 +72,6 @@ echo "install vi"
 sudo pacman -S vi
 echo "installing songrec"
 sudo pacman -S songrec
+echo "installing transmittiontorrent"
+sudo pacman -S transmission-gtk
+
