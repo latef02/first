@@ -20,13 +20,13 @@ echo "installing pamixer"
 sudo pacman -S pamixer
 echo "instqlling sound alsa"
 sudo pacman -S alsa-utils
-echo "installing spotify-launcher
+echo "installing spotify-launcher"
 sudo pacman -S spotify-launcher
 echo "installing telegram"
 sudo pacman -S  telegram-desktop
 echo "install rofi"
 sudo pacman install rofi
-echo "installing hexchat
+echo "installing hexchat"
 sudo pacman -S hexchat
 echo "installing gparted"
 sudo pacman -S gparted
@@ -74,4 +74,7 @@ echo "installing songrec"
 sudo pacman -S songrec
 echo "installing transmittiontorrent"
 sudo pacman -S transmission-gtk
-
+echo "installing mplayer"
+sudo pacman -S mplayer 
+echo "installing ncdu to watch who take long space"
+sudo pacman -S ncdu"
